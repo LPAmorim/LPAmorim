@@ -1,16 +1,27 @@
-## Hi there 👋
+### **Seja bem-vindo ao meu perfil** ✌️👀
 
-<!--
-**LPAmorim/LPAmorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Lucas Pereira
+- Estou estudando na [SPTech](https://www.sptech.school/)
+- Estou me desenvolvendo na programação em Backend, com o objetivo em atuar na áreas de [Ethical Hacking](https://www.ibm.com/br-pt/topics/ethical-hacking) | [Cybersecurity](https://www.ibm.com/br-pt/topics/cybersecurity)
+- Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+<div display="inline"> 
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />    
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />    
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---   
+
+### **Você pode entrar em contato comigo** 📫
+
+<a href="https://www.instagram.com/lcx.amorim/">
+ <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>&nbsp;
+<a href="mailto:eticalscriptsilent@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;
+<p></p>
+
+![](https://media1.tenor.com/m/PhnZUt2djmkAAAAd/matrix-elmo.gif)
