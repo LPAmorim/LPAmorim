@@ -36,7 +36,7 @@
 
 ---
 
-### **Você pode entrar em contato comigo** 📈
+### **Minhas estatíscas** 🔥
 <br clear="both">
 
 <div align="left">
