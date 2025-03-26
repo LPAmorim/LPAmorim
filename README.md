@@ -35,6 +35,17 @@
 <br>
 
 ---
+
+### **Você pode entrar em contato comigo** 📈
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LPAmorim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=LPAmorim&locale=pt-br&mode=daily&theme=apprentice&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
+</div>
+
+
+---
 ### **Você pode entrar em contato comigo** 📫
 <div align="left">
   <a href="https://www.linkedin.com/in/LucasAmorim-lcxAmorim/" target="_blank">
@@ -47,5 +58,3 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-![](https://media1.tenor.com/m/PhnZUt2djmkAAAAd/matrix-elmo.gif)
