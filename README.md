@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Seja+bem-vindo+ao+meu+perfil+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
-### 👩‍💻 **Sobre mim** ✝️
+### 👨‍💻 **Sobre mim** ✝️
 👀 Meu nome é Lucas Pereira Amorim Santos<br>
 🎓 Estou estudando na [SPTech](https://www.sptech.school/) <br>
 💻 Estou me desenvolvendo na programação em Backend, com o objetivo em atuar na áreas de [Ethical Hacking](https://www.ibm.com/br-pt/topics/ethical-hacking) | [Cybersecurity](https://www.ibm.com/br-pt/topics/cybersecurity) <br>
@@ -82,7 +82,7 @@
 
 ---
 
-### **Minhas estatíscas** 🔥
+### **Minhas estatisticas** 🔥
 <br clear="both">
 
 <div align="center">
